@@ -1,7 +1,7 @@
 version: 1.0.{build}
 build_script:
 - cmd: >-
-    image: Visual Studio 2015  # образ для сборки
+    
 
 
     branches:
