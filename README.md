@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8831h5nn14yki3bd/branch/master?svg=true)](https://ci.appveyor.com/project/FilStas/studi-netology/branch/master)
